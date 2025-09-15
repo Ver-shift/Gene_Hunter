@@ -3,6 +3,7 @@
 
 # Keep this file
 !/.gitignore
+!/README.md
 
 # Keep specific root files
 !/data.lock.json
