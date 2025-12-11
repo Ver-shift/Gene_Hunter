@@ -52,12 +52,32 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "champions": {
+    "enable_affix_compact": true
+  },
   "jade_access": {
     "held_item": true,
     "sign": true,
     "block": true,
     "entity": true,
     "entity_variant": true
+  },
+  "ftbquests": {
+    "barrier": true
+  },
+  "kaleidoscope_cookery": {
+    "chopping_board": true,
+    "shawarma_spit": true,
+    "recipe_block": true,
+    "millstone": true,
+    "enamel_basin": true
+  },
+  "twilightforest": {
+    "chiseled_bookshelf_spawner": true,
+    "quest_ram_wool": true
+  },
+  "supplementaries": {
+    "hat_stand": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -69,5 +89,15 @@
     "registry_name": "OFF",
     "block_properties": false,
     "mod_name": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "iceandfire": {
+    "multipart": true,
+    "dragon": true
+  },
+  "balm": {
+    "jade": true
   }
 }
