@@ -888,6 +888,36 @@
         "enabled": true,
         "source": null,
         "tags": []
+      },
+      {
+        "purl": "curseforge:448233@7313367",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "modrinth:Si9Uim4y@bRDnMC70",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:398521@6917256",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:1347014@7238823",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:1290628@7315300",
+        "enabled": true,
+        "source": null,
+        "tags": []
       }
     ]
   },
