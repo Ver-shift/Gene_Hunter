@@ -133,68 +133,74 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:chicken": true
-			"born_in_chaos_v1:bonescaller": true
-			"born_in_chaos_v1:baby_spider": true
-			"born_in_chaos_v1:dread_hound": true
-			"minecraft:creeper": true
-			"born_in_chaos_v1:decaying_zombie": true
-			"terra_entity:black_slime": true
-			"minecraft:iron_golem": true
-			"born_in_chaos_v1:maggot": true
-			"terra_entity:blue_slime": true
 			"born_in_chaos_v1:corpse_fish": true
-			"born_in_chaos_v1:siamese_skeletons": true
-			"terra_entity:big_muscle_anger_bones": true
-			"minecraft:skeleton": true
-			"born_in_chaos_v1:door_knight_not_despawn": true
-			"born_in_chaos_v1:zombie_lumberjack": true
-			"minecraft:zombie_villager": true
-			"terra_entity:squirrel": true
-			"born_in_chaos_v1:spiritof_chaos": true
-			"born_in_chaos_v1:mother_spider": true
-			"terra_entity:yellow_slime": true
-			"minecraft:bat": true
-			"born_in_chaos_v1:thornshell_crab": true
-			"terra_entity:purple_slime": true
-			"irons_spellbooks:necromancer": true
-			"terra_entity:short_bones": true
-			"born_in_chaos_v1:dark_vortex": true
-			"minecraft:rabbit": true
-			"minecraft:zombie": true
-			"terra_entity:big_anger_bones": true
-			"minecraft:cat": true
-			"terra_entity:cardinal": true
-			"terra_entity:red_slime": true
-			"minecraft:bee": true
-			"born_in_chaos_v1:decrepit_skeleton": true
 			"born_in_chaos_v1:restless_spirit": true
-			"terra_entity:anger_bones": true
-			"born_in_chaos_v1:baby_skeleton": true
-			"minecraft:enderman": true
-			"minecraft:sheep": true
-			"terra_entity:duck": true
-			"minecraft:pig": true
-			"born_in_chaos_v1:door_knight": true
-			"terra_entity:bird": true
+			"born_in_chaos_v1:spiritof_chaos": true
+			"born_in_chaos_v1:decrepit_skeleton": true
+			"born_in_chaos_v1:corpse_fly": true
 			"terra_entity:bunny": true
-			"terra_entity:green_slime": true
-			"terra_entity:hornet": true
-			"terra_entity:goblin_warrior": true
-			"born_in_chaos_v1:zombie_clown": true
-			"minecraft:spider": true
-			"born_in_chaos_v1:skeleton_demoman": true
-			"minecraft:squid": true
-			"born_in_chaos_v1:decaying_zombie_not_despawn": true
-			"minecraft:glow_squid": true
-			"minecraft:villager": true
-			"golemoverhaul:coal_golem": true
 			"terra_entity:big_bones": true
+			"minecraft:enderman": true
+			"terra_entity:cardinal": true
+			"terra_entity:blue_slime": true
+			"terra_entity:purple_slime": true
 			"terra_entity:blue_jay": true
+			"minecraft:sheep": true
 			"terra_entity:goblin_archer": true
 			"terra_entity:pink_slime": true
-			"born_in_chaos_v1:zombie_bruiser": true
+			"terra_entity:black_slime": true
+			"minecraft:iron_golem": true
+			"born_in_chaos_v1:zombie_clown": true
+			"born_in_chaos_v1:decaying_zombie": true
+			"born_in_chaos_v1:zombie_lumberjack": true
+			"minecraft:pig": true
+			"terra_entity:cursed_skull": true
+			"irons_spellbooks:necromancer": true
+			"terra_entity:duck": true
+			"terra_entity:short_bones": true
+			"born_in_chaos_v1:thornshell_crab": true
+			"minecraft:chicken": true
+			"minecraft:cat": true
+			"born_in_chaos_v1:maggot": true
+			"minecraft:witch": true
+			"terra_entity:big_anger_bones": true
+			"born_in_chaos_v1:dark_vortex": true
+			"terra_entity:squirrel": true
+			"born_in_chaos_v1:door_knight_not_despawn": true
+			"minecraft:spider": true
+			"terra_entity:bird": true
+			"born_in_chaos_v1:swarmer": true
+			"terra_entity:yellow_slime": true
+			"born_in_chaos_v1:skeleton_demoman": true
+			"born_in_chaos_v1:siamese_skeletons": true
+			"born_in_chaos_v1:baby_skeleton": true
+			"born_in_chaos_v1:dread_hound": true
+			"born_in_chaos_v1:mother_spider": true
+			"terra_entity:big_helmet_anger_bones": true
+			"terra_entity:green_slime": true
+			"born_in_chaos_v1:decaying_zombie_not_despawn": true
+			"born_in_chaos_v1:baby_spider": true
+			"terra_entity:anger_bones": true
+			"minecraft:zombie": true
+			"minecraft:skeleton": true
+			"minecraft:zombie_villager": true
+			"terra_entity:goblin_warrior": true
+			"minecraft:squid": true
+			"terra_entity:hornet": true
+			"born_in_chaos_v1:bonescaller": true
+			"minecraft:rabbit": true
 			"minecraft:axolotl": true
+			"minecraft:villager": true
+			"terra_entity:big_muscle_anger_bones": true
+			"minecraft:glow_squid": true
+			"born_in_chaos_v1:zombie_bruiser": true
+			"alshanex_familiars:hunter_pet": true
+			"minecraft:bee": true
+			"born_in_chaos_v1:door_knight": true
+			"golemoverhaul:coal_golem": true
+			"terra_entity:red_slime": true
+			"minecraft:creeper": true
+			"minecraft:bat": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

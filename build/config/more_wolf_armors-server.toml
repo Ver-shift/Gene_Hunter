@@ -1,0 +1,10 @@
+#Makes wolf armors from this mod enchantable with durability enchantments
+enchantable = true
+#Makes wolf armors from this mod enchantable with chest armor enchantments.
+#Requires previous option to be enabled as well
+chestArmorEnchantable = false
+#How many ingots to consume to repair wolf armors from zero durability to full.
+#Set it to 0 to disable repair
+# Default: 8
+# Range: 0 ~ 64
+ingotRepairFactor = 8

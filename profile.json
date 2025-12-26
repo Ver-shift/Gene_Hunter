@@ -537,7 +537,7 @@
       },
       {
         "purl": "curseforge:720811@7279372",
-        "enabled": true,
+        "enabled": false,
         "source": null,
         "tags": []
       },
@@ -585,12 +585,6 @@
       },
       {
         "purl": "curseforge:663477@6311236",
-        "enabled": true,
-        "source": null,
-        "tags": []
-      },
-      {
-        "purl": "curseforge:1074990@6923189",
         "enabled": true,
         "source": null,
         "tags": []
@@ -915,6 +909,78 @@
       },
       {
         "purl": "curseforge:1290628@7315300",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:620203@6820079",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:1168169@6112600",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:758349@7004867",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:306770@6842247",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:909207@6610946",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:328085@7178775",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:947914@7251631",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:968398@7251823",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:828331@6850529",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:1071657@6986772",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:235577@6319145",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:659011@6463247",
         "enabled": true,
         "source": null,
         "tags": []

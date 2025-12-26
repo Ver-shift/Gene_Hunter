@@ -52,8 +52,8 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "champions": {
-    "enable_affix_compact": true
+  "l2hostility": {
+    "mob": true
   },
   "jade_access": {
     "held_item": true,
